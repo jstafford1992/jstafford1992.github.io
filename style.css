@@ -50,3 +50,13 @@ div {
 .futp {
   font-family: "Lucida Console", Monaco, monospace
 }
+
+#stannis{
+  height: 100px;
+  width: 100px;
+}
+
+#jake {
+  height: 75px;
+  width: 75px;
+}
