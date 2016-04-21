@@ -1,0 +1,52 @@
+#navList {
+  list-style-type: none;
+  display: block;
+}
+
+nav li {
+  display: inline;
+}
+div {
+  margin: 20px, 40px, 20px, 40px;
+  padding: 20px;
+}
+#divOne {
+  font-type: sans;
+  background-color: pink;
+  font-family: "Lucida Console", Monaco, monospace
+}
+
+#divTwo {
+  background-color: blue;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#divThree {
+  background-color: yellow;
+  color: black;
+  font-family: sans-serif;
+}
+
+#divFour {
+  background-color: lightgreen;
+  color: black;
+  font-family: Times;
+}
+
+#divFive {
+  background-color: orange;
+  color: black;
+}
+
+.highlight {
+  background-color: grey;
+}
+
+.futh1 {
+  font-family: comic;
+}
+
+.futp {
+  font-family: "Lucida Console", Monaco, monospace
+}
