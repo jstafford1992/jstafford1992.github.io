@@ -1,3 +1,8 @@
+h1, h2 {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
 #navList {
   list-style-type: none;
   display: block;
@@ -14,18 +19,23 @@ div {
   font-type: sans;
   background-color: pink;
   font-family: "Lucida Console", Monaco, monospace
+
 }
 
 #divTwo {
   background-color: blue;
   color: white;
   font-family: "Courier New", Courier, monospace;
+  float: left;
+  width: 45%;
 }
 
 #divThree {
   background-color: yellow;
   color: black;
   font-family: sans-serif;
+  float: right;
+  width: 40%;
 }
 
 #divFour {
@@ -40,7 +50,7 @@ div {
 }
 
 .highlight {
-  background-color: grey;
+  background-color: pink;
 }
 
 .futh1 {
@@ -51,13 +61,7 @@ div {
   font-family: "Lucida Console", Monaco, monospace
 }
 
-#stannis{
-  height: 50;
-  width: 50;
-  
-}
+.hobbies {
+  column-count: 2;
 
-#jake {
-  height: 75px;
-  width: 75px;
 }
